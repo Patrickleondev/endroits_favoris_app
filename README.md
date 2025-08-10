@@ -303,26 +303,9 @@ flutter run --profile
 4. Ajoutez des tests si applicable
 5. Créez une Pull Request avec description détaillée
 
-## Support
 
-### Ressources Utiles
 
-- [Documentation Flutter](https://docs.flutter.dev/)
-- [Package Riverpod](https://pub.dev/packages/flutter_riverpod)
-- [Package Image Picker](https://pub.dev/packages/image_picker)
-- [Package UUID](https://pub.dev/packages/uuid)
-- [Formation DCLIC](https://www.dclic.org/)
 
-### Contact
-
-Pour toute question ou assistance :
-- Créez une issue sur GitHub
-- Consultez la documentation Flutter
-- Référez-vous aux exemples dans le code source
-
-## Licence
-
-Ce projet est développé dans le cadre de la formation DCLIC niveau avancé.
 
 ## Changelog
 
@@ -334,6 +317,11 @@ Ce projet est développé dans le cadre de la formation DCLIC niveau avancé.
 - ✅ Design Material 3 cohérent
 - ✅ Support Android et iOS
 - ✅ Documentation complète
+
+<img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/2008d24e-6e41-4a45-8011-b1840bbcf754" />
+
+
+<img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/5cd840b7-7da2-4fdd-9319-0de6c6ebeee8" />
 
 
 ---
